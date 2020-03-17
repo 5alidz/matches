@@ -1,0 +1,27 @@
+{
+  "name": "matches",
+  "version": "0.1.0",
+  "description": "vanilla js pattern matching",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.com/"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/5alidz/matches.git"
+  },
+  "keywords": [
+    "pattern",
+    "matching"
+  ],
+  "author": "5alidz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/5alidz/matches/issues"
+  },
+  "homepage": "https://github.com/5alidz/matches#readme"
+}
